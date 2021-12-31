@@ -11,6 +11,7 @@ This project is to help build a quick look at what the team someone is working o
 * [Testing](#tests)
 * [Github](#github)
 * [Video link](#link)
+* [Screen Shot](#screen-shot)
 * [Questions](#questions)
     
 ## Installation
@@ -26,7 +27,7 @@ To test this project after npm install run npm test.
 ## link
 [Demo Video](https://watch.screencastify.com/v/CMlgh245fJWJyMZ5658q)
 ## Screenshot
-[Screen Shot](https://github.com/grsmith35/rosterbuilder/blob/3fe791936fd2fb5f35a2fa5342d0160a602f45b3/assets/finalbuild.PNG)
+![Screen Shot](https://github.com/grsmith35/rosterbuilder/blob/3fe791936fd2fb5f35a2fa5342d0160a602f45b3/assets/finalbuild.PNG)
 ## Questions
 If you have any questions on this code please reachout to me at riley_smith8@hotmail.com.
     
