@@ -9,8 +9,8 @@ test('create a new intern object', () => {
     expect(person.school).toBe('uofu');
 });
 
-test('create a new intern object and use getSchool method', () => {
-    const person = new Intern('riley', 6, 'email@email.com', 'uofu');
+// test('create a new intern object and use getSchool method', () => {
+//     const person = new Intern('riley', 6, 'email@email.com', 'uofu');
 
-    expect(person.getSchool()).toHaveProperty('school');
-});
+//     expect(person.getSchool()).toHaveProperty('school');
+// });

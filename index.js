@@ -188,7 +188,7 @@ function starter() {
             <span class="navbar-brand text-center mx-auto"><h1>Team Roster</h1></span>
         </nav>
         <div class="container" id="container">
-        <div class="row"`;
+        <div class="row">`;
 
         fs.writeFile('./dist/roster.html', start, (err) => {
             if(err) {
